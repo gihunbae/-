@@ -1,0 +1,13 @@
+
+/* 이미지{가로30px} */
+img {
+    width:30px;
+}
+
+/* id goldcat {외곽선 선/외곽선 컬러 골드/외곽선 가로 사이즈 7px*/
+#goldcat {
+    border-style: solid;
+    border-color: gold;
+    border-width: 7px;
+
+}
